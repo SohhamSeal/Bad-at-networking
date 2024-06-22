@@ -1,0 +1,1 @@
+To understand the difference between the two and the need for each of the models, we first need to understand the layer architectures behind them.
